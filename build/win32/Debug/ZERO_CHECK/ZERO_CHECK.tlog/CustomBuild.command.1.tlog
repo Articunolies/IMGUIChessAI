@@ -1,0 +1,10 @@
+^C:\USERS\ARTIC\ONEDRIVE\DESKTOP\CMPM 123\ROCK_PAPER_SCISSORS\BUILD\CMAKEFILES\568E0D48A9F2126F50654F350A7C7EE2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors" "-BC:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/chess.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

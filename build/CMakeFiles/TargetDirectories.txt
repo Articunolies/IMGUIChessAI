@@ -1,0 +1,9 @@
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/Experimental.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/Nightly.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/Continuous.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/chess.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/PACKAGE.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/artic/OneDrive/Desktop/CMPM 123/rock_paper_scissors/build/CMakeFiles/ZERO_CHECK.dir
